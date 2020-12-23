@@ -1,9 +1,9 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
 [![DOI](https://zenodo.org/badge/214220909.svg)](https://zenodo.org/badge/latestdoi/214220909)
 
-# Paper Title
+# Balls and Walls: a compact unary representation for bosons
 
-Author 1, Author 2, Author 3
+Caleb Usadi, Hatem Barghathi, Adrian Del Maestro
 
 [arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
 
