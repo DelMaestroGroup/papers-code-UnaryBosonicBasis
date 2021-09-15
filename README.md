@@ -3,7 +3,7 @@
 
 # Balls and Walls: A Compact Unary Coding for Bosonic States
 
-Caleb Usadi, Hatem Barghathi, Adrian Del Maestro
+Hatem Barghathi, Caleb Usadi, Micah Beck, and Adrian Del Maestro
 
 [arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
 
