@@ -17,7 +17,7 @@ This repository includes links, code, scripts, and data to generate the figures 
 ### Requirements
 The data in this project was generated via exact diagonalization.  Everything included in the [data](https://github.com/DelMaestroGroup/papers-code-UnaryBosonicBasis/tree/main/data) directory was generated via:
 
-* [Dependency Name](https://dependencelink)
+* [ED for the Bose-Hubbard model and entanglement entropy measures](https://github.com/DelMaestroGroup/Bose-Hubbard_diagonalize)
 
 ### Support
 The creation of these materials was supported in part by the National Science Foundation under Award No. DMR-1553991.
