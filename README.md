@@ -25,13 +25,13 @@ The creation of these materials was supported in part by the National Science Fo
 
 ### Figures
 
-#### Figure 01: Figure Name
+#### Figure 01: Time Scaling
 <img src="https://github.com/DelMaestroGroup/papers-code-UnaryBosonicBasis/blob/main/figures/TimeScaling.svg" width="400px">
 
-#### Figure 02: Figure Name
+#### Figure 02: Entanglement Measures
 <img src="https://github.com/DelMaestroGroup/papers-code-UnaryBosonicBasis/blob/main/figures/EntanglementMeasures.svg"  width="400px">
 
-#### Figure 03: Figure Name
+#### Figure 03: Restricted Occupation Numbers
 <img src="https://github.com/DelMaestroGroup/papers-code-UnaryBosonicBasis/blob/main/figures/RestrictedOccupationNumber.svg" width="400px">
 
 This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
