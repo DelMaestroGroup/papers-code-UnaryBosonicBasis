@@ -26,10 +26,10 @@ The creation of these materials was supported in part by the National Science Fo
 ### Figures
 
 #### Figure 01: Figure Name
-<img src="https://github.com/DelMaestroGroup/papers-code-UnaryBosonicBasis/blob/main/figures/TimeScaling.svg">
+<img src="https://github.com/DelMaestroGroup/papers-code-UnaryBosonicBasis/blob/main/figures/TimeScaling.svg" width="400px">
 
 #### Figure 02: Figure Name
-<img src="https://github.com/DelMaestroGroup/papers-code-UnaryBosonicBasis/blob/main/figures/EntanglementMeasures.svg">
+<img src="https://github.com/DelMaestroGroup/papers-code-UnaryBosonicBasis/blob/main/figures/EntanglementMeasures.svg"  width="400px">
 
 #### Figure 03: Figure Name
 <img src="https://github.com/DelMaestroGroup/papers-code-UnaryBosonicBasis/blob/main/figures/RestrictedOccupationNumber.svg" width="400px">
