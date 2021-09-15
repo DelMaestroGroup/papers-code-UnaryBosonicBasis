@@ -34,5 +34,5 @@ The creation of these materials was supported in part by the National Science Fo
 #### Figure 03: Restricted Occupation Numbers
 <img src="https://github.com/DelMaestroGroup/papers-code-UnaryBosonicBasis/blob/main/figures/RestrictedOccupationNumber.svg" width="400px">
 
-This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+<!--This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.-->
 
