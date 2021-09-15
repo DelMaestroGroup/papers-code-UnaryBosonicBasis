@@ -20,7 +20,7 @@ The data in this project was generated via exact diagonalization.  Everything in
 * [ED for the Bose-Hubbard model and entanglement entropy measures](https://github.com/DelMaestroGroup/Bose-Hubbard_diagonalize)
 
 ### Support
-The creation of these materials was supported in part by the National Science Foundation under Award No. DMR-1553991.
+The creation of these materials was supported in part by the National Science Foundation under Award No. DMR-2041995.
 
 [<img width="100px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1553991)
 
